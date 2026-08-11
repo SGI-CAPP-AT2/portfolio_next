@@ -63,7 +63,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 pt-6 border-t border-white/5 text-center text-xs text-gray-500">
-          © {new Date().getFullYear()} Shubham Ingale. Built with Next.js & Tailwind CSS. Resume source: <a href={personalInfo.resumeUrl} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">resume.tex</a>.
+          © {new Date().getFullYear()} Shubham Ingale. Built with Next.js & Tailwind CSS. View: <a href={personalInfo.resumeUrl} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Shubham_Ingale_Resume.pdf</a>.
         </div>
       </div>
     </footer>

@@ -70,7 +70,7 @@ export default function Hero() {
               className="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-white/5 border border-white/10 hover:border-blue-500/40 text-gray-300 hover:text-blue-300 text-sm font-medium transition-all"
             >
               <Download className="w-4 h-4" />
-              <span>LaTeX Resume</span>
+              <span>Resume PDF</span>
             </a>
           </div>
 

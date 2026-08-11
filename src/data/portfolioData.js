@@ -7,7 +7,7 @@ export const personalInfo = {
   location: "Pune, India",
   github: "https://github.com/SGI-CAPP-AT2",
   linkedin: "https://www.linkedin.com/in/shgi/",
-  resumeUrl: "/resume.tex",
+  resumeUrl: "/Shubham_Ingale_Resume.pdf",
   highlights: [
     { label: "JPMorgan Chase & Co.", badge: "Summer Intern" },
     { label: "Google Summer of Code", badge: "CCExtractor Contributor" },

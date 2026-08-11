@@ -68,7 +68,7 @@ export default function Navbar() {
               className="flex items-center gap-2 px-4 py-2 text-xs font-semibold rounded-lg bg-blue-600/20 border border-blue-500/40 text-blue-300 hover:bg-blue-600 hover:text-white hover:border-blue-600 transition-all duration-200 shadow-sm"
             >
               <FileText className="w-4 h-4" />
-              <span>LaTeX Resume</span>
+              <span>Resume PDF</span>
             </a>
           </div>
 
@@ -104,7 +104,7 @@ export default function Navbar() {
             className="flex items-center justify-center gap-2 px-4 py-2.5 text-sm font-semibold rounded-lg bg-blue-600 text-white transition-all shadow-md"
           >
             <FileText className="w-4 h-4" />
-            <span>View Resume (LaTeX)</span>
+            <span>View Resume (PDF)</span>
           </a>
         </div>
       )}
