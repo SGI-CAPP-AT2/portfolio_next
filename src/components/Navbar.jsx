@@ -42,7 +42,7 @@ export default function Navbar() {
               <Terminal className="w-5 h-5" />
             </div>
             <span>
-              Shubham<span className="text-blue-400">.dev</span>
+              shgibio<span className="text-blue-400">.in</span>
             </span>
           </a>
 
